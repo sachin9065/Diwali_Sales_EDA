@@ -97,4 +97,4 @@ This EDA provides meaningful insights into customer behavior and sales performan
 
 ---
 
-⭐ If you find this project helpful, feel free to star the repository and share your feedb
+⭐ If you find this project helpful, feel free to star the repository and share your feedback.
